@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/prasoonjain006/weather-App/static/css/main.886e9c59.chunk.css",
-    "main.js": "/prasoonjain006/weather-App/static/js/main.e8da8781.chunk.js",
-    "main.js.map": "/prasoonjain006/weather-App/static/js/main.e8da8781.chunk.js.map",
-    "runtime-main.js": "/prasoonjain006/weather-App/static/js/runtime-main.92bc32ca.js",
-    "runtime-main.js.map": "/prasoonjain006/weather-App/static/js/runtime-main.92bc32ca.js.map",
-    "static/css/2.03153bb6.chunk.css": "/prasoonjain006/weather-App/static/css/2.03153bb6.chunk.css",
-    "static/js/2.fe539afd.chunk.js": "/prasoonjain006/weather-App/static/js/2.fe539afd.chunk.js",
-    "static/js/2.fe539afd.chunk.js.map": "/prasoonjain006/weather-App/static/js/2.fe539afd.chunk.js.map",
-    "index.html": "/prasoonjain006/weather-App/index.html",
-    "precache-manifest.55076f3f329c4b40be02dbe48e314c3b.js": "/prasoonjain006/weather-App/precache-manifest.55076f3f329c4b40be02dbe48e314c3b.js",
-    "service-worker.js": "/prasoonjain006/weather-App/service-worker.js",
-    "static/css/2.03153bb6.chunk.css.map": "/prasoonjain006/weather-App/static/css/2.03153bb6.chunk.css.map",
-    "static/css/main.886e9c59.chunk.css.map": "/prasoonjain006/weather-App/static/css/main.886e9c59.chunk.css.map",
-    "static/js/2.fe539afd.chunk.js.LICENSE.txt": "/prasoonjain006/weather-App/static/js/2.fe539afd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/prasoonjain006/weather-App/static/media/bgImage.91b106a1.jpg",
-    "static/media/weather-icons.css": "/prasoonjain006/weather-App/static/media/weathericons-regular-webfont.ed0943f2.svg"
+    "main.css": "/prasoonjain006/weather-app/static/css/main.4cc9e8e8.chunk.css",
+    "main.js": "/prasoonjain006/weather-app/static/js/main.28753201.chunk.js",
+    "main.js.map": "/prasoonjain006/weather-app/static/js/main.28753201.chunk.js.map",
+    "runtime-main.js": "/prasoonjain006/weather-app/static/js/runtime-main.7008568e.js",
+    "runtime-main.js.map": "/prasoonjain006/weather-app/static/js/runtime-main.7008568e.js.map",
+    "static/css/2.f0668f01.chunk.css": "/prasoonjain006/weather-app/static/css/2.f0668f01.chunk.css",
+    "static/js/2.fe539afd.chunk.js": "/prasoonjain006/weather-app/static/js/2.fe539afd.chunk.js",
+    "static/js/2.fe539afd.chunk.js.map": "/prasoonjain006/weather-app/static/js/2.fe539afd.chunk.js.map",
+    "index.html": "/prasoonjain006/weather-app/index.html",
+    "precache-manifest.2dc4d88c1c94595f3a04547d117051e0.js": "/prasoonjain006/weather-app/precache-manifest.2dc4d88c1c94595f3a04547d117051e0.js",
+    "service-worker.js": "/prasoonjain006/weather-app/service-worker.js",
+    "static/css/2.f0668f01.chunk.css.map": "/prasoonjain006/weather-app/static/css/2.f0668f01.chunk.css.map",
+    "static/css/main.4cc9e8e8.chunk.css.map": "/prasoonjain006/weather-app/static/css/main.4cc9e8e8.chunk.css.map",
+    "static/js/2.fe539afd.chunk.js.LICENSE.txt": "/prasoonjain006/weather-app/static/js/2.fe539afd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/prasoonjain006/weather-app/static/media/bgImage.91b106a1.jpg",
+    "static/media/weather-icons.css": "/prasoonjain006/weather-app/static/media/weathericons-regular-webfont.ed0943f2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.92bc32ca.js",
-    "static/css/2.03153bb6.chunk.css",
+    "static/js/runtime-main.7008568e.js",
+    "static/css/2.f0668f01.chunk.css",
     "static/js/2.fe539afd.chunk.js",
-    "static/css/main.886e9c59.chunk.css",
-    "static/js/main.e8da8781.chunk.js"
+    "static/css/main.4cc9e8e8.chunk.css",
+    "static/js/main.28753201.chunk.js"
   ]
 }
